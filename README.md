@@ -1,4 +1,4 @@
-movie_actor_linear_regression
+movie_actor_tree_ensembles
 =============================
 
 Springboard Capstone 2
@@ -26,3 +26,5 @@ Project Workflow:
 : Notebook containing the code I used to find the best tree ensemble model to predict on the dataset and a written report describing the steps taken.
 7. [Predictions](https://github.com/christianspybrook/movie_actor_tree_ensembles/tree/master/predictions)
 : Notebook containing the code I used to predict on the dataset and a written report describing the steps taken.
+8. [Final Report](https://github.com/christianspybrook/movie_actor_tree_ensembles/tree/master/reports/capstone_2_final_report.pdf)
+: Written report composed of all the previous reports followed by a conclusion recommending possible next steps to take.
