@@ -1,4 +1,4 @@
-movie_actor_tree_ensembles
+# Movie Actor: Tree Ensembles
 =============================
 
 Springboard Capstone 2
